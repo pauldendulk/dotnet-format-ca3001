@@ -1,0 +1,1 @@
+# dotnet-format-ca3001
